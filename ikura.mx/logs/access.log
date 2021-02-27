@@ -1,0 +1,2 @@
+127.0.0.1 - - [13/Jun/2020:13:33:36 -0500] "GET / HTTP/1.1" 403 1180 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [13/Jun/2020:13:33:36 -0500] "GET /favicon.ico HTTP/1.1" 404 1309 "http://ikura.mx/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
